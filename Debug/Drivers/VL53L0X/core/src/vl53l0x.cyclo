@@ -1,0 +1,16 @@
+../Drivers/VL53L0X/core/src/vl53l0x.c:64:13:device_is_booted	2
+../Drivers/VL53L0X/core/src/vl53l0x.c:77:13:data_init	3
+../Drivers/VL53L0X/core/src/vl53l0x.c:112:13:read_strobe	6
+../Drivers/VL53L0X/core/src/vl53l0x.c:144:13:get_spad_info_from_nvm	7
+../Drivers/VL53L0X/core/src/vl53l0x.c:214:13:set_spads_from_nvm	14
+../Drivers/VL53L0X/core/src/vl53l0x.c:286:13:load_default_tuning_settings	1
+../Drivers/VL53L0X/core/src/vl53l0x.c:373:13:configure_interrupt	5
+../Drivers/VL53L0X/core/src/vl53l0x.c:401:13:set_sequence_steps_enabled	1
+../Drivers/VL53L0X/core/src/vl53l0x.c:409:13:static_init	5
+../Drivers/VL53L0X/core/src/vl53l0x.c:433:13:perform_single_ref_calibration	10
+../Drivers/VL53L0X/core/src/vl53l0x.c:479:13:perform_ref_calibration	4
+../Drivers/VL53L0X/core/src/vl53l0x.c:500:13:init_address	2
+../Drivers/VL53L0X/core/src/vl53l0x.c:516:13:init_addresses	2
+../Drivers/VL53L0X/core/src/vl53l0x.c:526:13:init_config	4
+../Drivers/VL53L0X/core/src/vl53l0x.c:540:6:vl53l0x_init	3
+../Drivers/VL53L0X/core/src/vl53l0x.c:551:6:vl53l0x_read_range_single	13
